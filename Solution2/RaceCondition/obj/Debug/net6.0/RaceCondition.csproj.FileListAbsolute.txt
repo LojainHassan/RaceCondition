@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\bin\Debug\net6.0\RaceCondition.exe
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\bin\Debug\net6.0\RaceCondition.deps.json
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\bin\Debug\net6.0\RaceCondition.runtimeconfig.json
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\bin\Debug\net6.0\RaceCondition.dll
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\bin\Debug\net6.0\RaceCondition.pdb
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\RaceCondition.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\RaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\RaceCondition.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\RaceCondition.AssemblyInfo.cs
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\RaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\RaceCondition.dll
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\refint\RaceCondition.dll
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\RaceCondition.pdb
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\RaceCondition.genruntimeconfig.cache
+C:\Users\ADMIN\Source\Repos\RaceCondition\Solution2\RaceCondition\obj\Debug\net6.0\ref\RaceCondition.dll
